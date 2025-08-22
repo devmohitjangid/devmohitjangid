@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+👋 Hi, I’m Mohit Jangid  
+💻 I’m a Computer Science Engineering student and passionate about **Data Structures & Algorithms, Web Development, and Problem Solving**.  
+🚀 I’m currently learning **DSA, Java, and Full-Stack Development**.  
+🤝 I’m looking to collaborate on **Open Source Projects** and **Hackathons**.  
+📚 I love building projects that solve real-world problems.  
+⚡ Fun fact: I can debug code faster than I can cook Maggi 
 
 
 ## 🌐 Socials:
